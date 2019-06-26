@@ -1,0 +1,23 @@
+{
+  "name": "fp101",
+  "version": "1.0.0",
+  "description": "函数式编程学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GivenCui/fp101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GivenCui/fp101/issues"
+  },
+  "homepage": "https://github.com/GivenCui/fp101#readme",
+  "devDependencies": {
+    "ramda": "^0.26.1"
+  }
+}
